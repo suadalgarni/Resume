@@ -169,60 +169,18 @@ and Unix, UARK
 
  
 
-**References:**
+**Reference:**
 
-**Dr.Kenneth V. Kaloustian (M.S. Advisor)**
-
-Professor Emeritus
-
-Medicine, Nursing, Health Sciences
-
-Quinnipiac University
-
-Hamden, CT
-
-Office: 203-582-8676
-
-Email: Kenneth.Kaloustian\@quinnipiac.edu
-
- 
-
-**Dr. Lani C. Keller**
+**Dr.Jeffrey A. Lewis (Ph.D Advisor)**
 
 Assistant Professor
 
-Department of Biological Sciences
+J. William Fulbright College of Arts & Sciences
 
-Quinnipiac University
+(BISC)-Biological Sciences
 
-Hamden, CT
+Phone: 479-575-7740
 
-Office:(203) 582-8994
-
-Email: Lani.Keller\@quinnipiac.edu
-
- 
-
-**Dr. Michelle Zaremba**
-
-Pathologists assistants
-
-Quinnipiac University
-
-Hamden, CT
-
-Email: Michelle.Zaremba\@quinnipiac.edu
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Email: lewisja\@uark.edu
 
  
